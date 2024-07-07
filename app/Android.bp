@@ -8,9 +8,7 @@ package {
 }
 
 android_app {
-    name: "Aperture",
-
-    defaults: ["aapt_version_code_defaults"],
+    name: "Camera2",
 
     srcs: ["src/main/java/**/*.kt"],
     resource_dirs: ["src/main/res"],
